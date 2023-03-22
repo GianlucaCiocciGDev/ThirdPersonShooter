@@ -45,7 +45,7 @@ Other Packages:
 
 
 <h2>GAME:</h2>
-Download the project, Open "Build" folder and run <b>ThirdPersonShooter.exe</b> to test it!
+Download the project, Open "Game/Windows" folder and run <b>ThirdPersonShooter.exe</b> to test it!
 
 <b>Commands: </b><br>
 
